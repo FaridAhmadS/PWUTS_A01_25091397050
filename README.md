@@ -7,7 +7,7 @@
 - Program Studi: D4 Manajemen Informatika
 - Fakultas: Vokasi
 - Mata Kuliah: Pemrograman Web
-- Folder project: `PWUTS_A01_25091397050`
+- Folder project: `PWUTS_B01_25091397050`
 
 ## Deskripsi
 ClassPlan merupakan website untuk membantu PJ mata kuliah mengelola informasi jadwal kuliah dan tugas pada kelas 2025B.
